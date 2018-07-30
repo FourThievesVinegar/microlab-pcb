@@ -1,7 +1,7 @@
-History/*
-Project Logs for */*
-Project Outputs for */*
-*.PrjPCBStructure
+History/
+Project Logs for */
+Project Outputs for */
+*.PrjPcbStructure
 *.htm
 *.LOG
 *Preview
