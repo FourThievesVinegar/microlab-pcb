@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [microlab.PrjPcb]
+   Generated File[microlab-RoundHoles.TXT]
+   Generated File[microlab-SlotHoles.TXT]
+   Generated File[microlab.LDP]
+   Generated File[microlab.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 11:48:36 PM On 7/19/2018
