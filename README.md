@@ -5,6 +5,13 @@
 
 This is the printed circuit board hardware component for controlling the Four Thieves Vinegar Collective's Apothecary Microlab. It was built with Altium Designer v15 and sits mezzanine to the Raspberry Pi Zero.
 
+## Building
+
+To build your own Microlab PCB follow these guides:
+
+[Ordering the PCB](docs/order-pcb.md)
+
+[Ordering the PCB Components](docs/order-pcb-components.md)
 
 ## Interfaces
 
