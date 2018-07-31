@@ -6,7 +6,7 @@ This document describes how to order the electrical components for the Apothecar
 
 Cost is USD $30 - $35 + shipping from Digi-Key and takes one to two days to ship within North America.
 
-Includes parts for one Microlab PCBs. If you'd like to assemble more, multiply the quanities in the spreadsheet.
+Includes parts for one Microlab PCB. If you'd like to assemble more, multiply the quantities in the spreadsheet.
 
 ## Steps
 
@@ -28,11 +28,11 @@ Once logged in, view your shopping cart on the top right.
 
 Upload the microlab-BOM.xls file to the shopping cart.
 
-Set the first part record to row three:
+Set the first part record to row two:
 
 ![Digi-Key first record](media/digikey-first-record.png)
 
-Scroll to the right and assign the last three columns of the table to "Digi-Key Part Number", "Customer Reference" and "Quanitity":
+Scroll to the right and assign the last three columns of the table to "Digi-Key Part Number", "Customer Reference" and "Quantity":
 
 ![Digi-Key column options](media/digikey-column-options.png)
 
