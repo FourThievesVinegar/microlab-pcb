@@ -1,5 +1,7 @@
 # FTVC Microlab PCB
 
+## NOTE: This project is deprecated. [The new version of the Microlab](https://github.com/FourThievesVinegar/solderless-microlab) uses a Raspberry Pi.
+
 ![Four Thieves Vinegar Micro Lab](https://github.com/FourThievesVinegar/microlab/blob/master/images/4tvc.jpg)
 
 
